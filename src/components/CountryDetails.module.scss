@@ -45,6 +45,7 @@
   padding: 0;
   margin-bottom: var(--space-xl);
   z-index: 3;
+  cursor: pointer;
 
   @include sm-up() {
     height: 4rem;

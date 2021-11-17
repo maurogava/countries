@@ -30,6 +30,31 @@
   }
 }
 
+.backBtn {
+  position: fixed;
+  top: var(--space-md);
+  left: var(--space-lg);
+  width: 11rem;
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+  color: var(--blue-500);
+  background: var(--light-100);
+  border: 0;
+  font-size: var(--fs-lg);
+  padding: 0;
+  margin-bottom: var(--space-xl);
+  z-index: 3;
+
+  @include sm-up() {
+    height: 4rem;
+  }
+}
+
+.backIcon {
+  margin-right: var(--space-sm);
+}
+
 .image {
   height: 15rem;
   border: 0.2rem solid var(--grey-300);

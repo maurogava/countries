@@ -3,7 +3,7 @@
 "Countries App" consist of a Home page with a list of all Countries. You can filter by name and if you click in a "Country Card" you will be redirected to a Country description page.
 The APP is fully Responsive, also the images are being lazy loaded, and all content shifts are prevented.
 
-The used tech stack is TypeScript, React, React Router, React Query, SCSS, CSS Modules, ESLint, Prettier.
+The tech stack used is TypeScript, React, React Router, React Query, SCSS, CSS Modules, ESLint, Prettier.
 
 I din't use any UI framework like Bootstrap or MUI so you can evaluate my knowledge without having those components as base, which makes some things simpler. Nevertheless this is just a challenge with room for improvements.
 

@@ -9,7 +9,7 @@ I din't use any UI framework like Bootstrap or MUI so you can evaluate my knowle
 
 ### **Deployed**
 
-This Project is deployeg in GH Pages and this is the URL [https://maurogava.github.io/countries/](https://maurogava.github.io/contries/)
+This Project is deployeg in GH Pages and this is the URL [https://maurogava.github.io/countries/](https://maurogava.github.io/countries/)
 
 ## Available Scripts
 
